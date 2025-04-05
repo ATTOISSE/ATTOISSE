@@ -1,9 +1,3 @@
-<!-- Mode clair -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ATTOISSE/ATTOISSE/output/github-snake-dark.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/ATTOISSE/ATTOISSE/output/github-snake.svg">
-</picture>
-
 <h1 align="center">Hi 👋, I'm ATTOISSE Mohamed</h1>
 <h3 align="center">A Data Engineer junior</h3>
 
