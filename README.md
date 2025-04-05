@@ -5,10 +5,6 @@
 
 - 📫 How to reach me **ibrahimmohamedprof@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 Creative and passionate developer with a background in software engineering, combining strong development skills with a deep interest in data and artificial intelligence.
 With over 3 years of experience teaching algorithms and programming at ISI, I've developed both technical expertise and a solid pedagogical approach.
